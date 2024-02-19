@@ -1,8 +1,8 @@
 #include "sort.h"
 
 /**
- * swap_nodes - Swap two nodes in a listint_t doubly-linked list.
- * @h: A pointer to  head of the doubly-linked list.
+ * swap_nodes - Swap two nodes in listint_t doubly-linked list.
+ * @h: A pointer to  head of doubly-linked list.
  * @n1: A pointer to first node to swap.
  * @n2: The second node to swap.
  */
