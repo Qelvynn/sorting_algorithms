@@ -5,7 +5,7 @@
 #include <stdlib.h>
 
 /* Comparison direction macros for bitonic sort */
-#define UP 0
+#define UP   0
 #define DOWN 1
 
 /**
